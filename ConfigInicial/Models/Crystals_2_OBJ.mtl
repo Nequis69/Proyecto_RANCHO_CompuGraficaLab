@@ -1,0 +1,8 @@
+newmtl Crystal_1_LpSG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+map_Kd Crystals_Lp_M_Crystals_Normal.png
+d 0.5
